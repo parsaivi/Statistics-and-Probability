@@ -23,12 +23,6 @@ Each analysis combines theoretical probability concepts with practical R impleme
 - Comprehensive visualization of results
 - Statistical validation of theoretical concepts
 
-## Usage
-1. Clone the repository
-2. Open the .Rmd files in RStudio
-3. Run the cells sequentially to reproduce the analyses
-4. Modify parameters as needed for different scenarios
-
 ## Future Development
 Potential areas for expansion include:
 - Additional probability scenarios
@@ -36,8 +30,3 @@ Potential areas for expansion include:
 - Performance optimizations
 - Integration of more complex statistical models
 
-## License
-[Your chosen license]
-
-## Contact
-[Your contact information]
